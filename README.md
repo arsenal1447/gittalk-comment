@@ -1,1 +1,1 @@
-# gittalk-comment" 
+# gittalk-comment
